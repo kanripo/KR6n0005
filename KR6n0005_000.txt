@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 菩薩善戒經
+#+DATE: 2015-08-30 20:55:08.747689
+#+PROPERTY: JUAN 0
